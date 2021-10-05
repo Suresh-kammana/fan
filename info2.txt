@@ -4,3 +4,4 @@ i hate this job
 i work for cts
 git is fast
 git is nice
+git visualize the commits made in code
